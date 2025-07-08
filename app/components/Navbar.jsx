@@ -48,12 +48,12 @@ const Navbar = () => {
             </a>
           </li>
           <li>
-            <a className="font-Ovo" href="#top">
+            <a className="font-Ovo" href="#work">
               My Work
             </a>
           </li>
           <li>
-            <a className="font-Ovo" href="#top">
+            <a className="font-Ovo" href="#contact">
               Contact me
             </a>
           </li>
@@ -94,12 +94,12 @@ const Navbar = () => {
               </a>
             </li>
             <li>
-              <a className="font-Ovo cursor-pointer" href="#top" onClick={closeMenu}> 
+              <a className="font-Ovo cursor-pointer" href="#work" onClick={closeMenu}> 
                 My Work
               </a>
             </li>
             <li>
-              <a className="font-Ovo cursor-pointer" href="#top" onClick={closeMenu}>
+              <a className="font-Ovo cursor-pointer" href="#contact" onClick={closeMenu}>
                 Contact me
               </a>
             </li>
